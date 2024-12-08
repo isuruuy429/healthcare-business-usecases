@@ -36,7 +36,7 @@ function AppointmentReceipt() {
       {/* Additional Instructions */}
       <div className="receipt-notice">
         <ul>
-          <li>Your channeling is complete. Please note the reference No.</li>
+          <li>Your channeling is complete. Please note the reference Number.</li>
           <li>For your benefit, you could obtain a print copy of this page.</li>
           <li>Please be at the hospital 15 minutes before the given time.</li>
           <li>The reference number is essential for you to be able to consult the doctor.</li>
